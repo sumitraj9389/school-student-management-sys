@@ -1,0 +1,49 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Amit Sharma",
+      "roll_no": "CS101",
+      "class": "B.Tech 2nd Year",
+      "email": "amit.sharma@example.com",
+      "phone": "9876543210",
+      "address": "Delhi, India",
+      "attendance": "90%",
+      "marks": {
+        "maths": 88,
+        "science": 75,
+        "english": 82
+      }
+    },
+    {
+      "id": 2,
+      "name": "Neha Verma",
+      "roll_no": "CS102",
+      "class": "B.Tech 2nd Year",
+      "email": "neha.verma@example.com",
+      "phone": "9876501234",
+      "address": "Lucknow, India",
+      "attendance": "95%",
+      "marks": {
+        "maths": 92,
+        "science": 89,
+        "english": 90
+      }
+    },
+    {
+      "id": 3,
+      "name": "Rohit Singh",
+      "roll_no": "CS103",
+      "class": "B.Tech 2nd Year",
+      "email": "rohit.singh@example.com",
+      "phone": "9898989898",
+      "address": "Patna, India",
+      "attendance": "85%",
+      "marks": {
+        "maths": 76,
+        "science": 81,
+        "english": 70
+      }
+    }
+  ]
+}
